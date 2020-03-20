@@ -22,6 +22,10 @@ article {
 	padding: 10px;
 	margin: 10px;
 	background: purple;
+	flex: 200px;
 }
 
-
+section {
+	display: flex;
+	flex-wrap: wrap;
+}
