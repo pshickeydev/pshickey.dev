@@ -22,7 +22,11 @@ article {
 	padding: 10px;
 	margin: 10px;
 	background: purple;
-	flex: 200px;
+	flex: 1;
+}
+
+article:nth-of-type(3) {
+	flex: 2;
 }
 
 section {
