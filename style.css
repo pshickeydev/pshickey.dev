@@ -7,15 +7,8 @@ body {
 }
 
 header {
-	background: cyan;
+	background: #FF0000;
 	height: 100px;
-}
-
-h1 {
-	text-align: center;
-	color: white;
-	line-height: 100px;
-	margin: 0;
 }
 
 article {
@@ -23,6 +16,10 @@ article {
 	margin: 10px;
 	background: purple;
 	flex: 1;
+}
+
+article img {
+	width: 200px;
 }
 
 article:nth-of-type(3) {
