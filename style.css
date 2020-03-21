@@ -9,10 +9,15 @@ body {
 header {
 	background: #FF0000;
 	height: 100px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
 }
 
 header img {
 	width: 100%;
+	float: left;
+	padding: 15px;
 }
 
 article {
