@@ -32,6 +32,8 @@ article {
 
 article img {
 	width: 200px;
+	float: left;
+	padding: 15px;
 }
 
 article:nth-of-type(3) {
