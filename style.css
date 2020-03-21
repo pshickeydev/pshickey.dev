@@ -11,6 +11,10 @@ header {
 	height: 100px;
 }
 
+header img {
+	width: 100%;
+}
+
 article {
 	padding: 10px;
 	margin: 10px;
