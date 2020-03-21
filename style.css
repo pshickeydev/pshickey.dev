@@ -12,6 +12,9 @@ header {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
+	margin: 0;
+	padding: 0;
+	display: flex;
 }
 
 header img {
